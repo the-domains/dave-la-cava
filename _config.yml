@@ -1,4 +1,5 @@
-typography_spectrum: 0.05349621269851923
+layout_spectrum: 0.03604237479157746
+typography_spectrum: 0.5676086854655296
 color:
   saturation: 0.7621682998724282
   brandStrength: 0.2913926655892283
@@ -10,7 +11,6 @@ color:
     - '#ACCFCC'
     - '#8A0917'
   rhythmicContrast: 0.9405356806237251
-layout_spectrum: 0.03604237479157746
 analytics:
   google: UA-9523612-5
 name: Dave La Cava
