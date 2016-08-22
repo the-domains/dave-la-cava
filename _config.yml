@@ -1,3 +1,17 @@
+typography_spectrum: 0.7419355
+color:
+  saturation: 0.5698925
+  brandStrength: 0.5232975
+  lightness: 0.6039426
+  brandColors:
+    - '#FFFFFF'
+    - '#8D0F0B'
+    - '#CACACA'
+    - '#838383'
+    - '#B0B0B0'
+  rhythmicContrast: 0.1612903
+layout_spectrum: 0
+name: Dave La Cava
 collections:
   - index:
       path: /
@@ -10,17 +24,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5698925
-  brandStrength: 0.5232975
-  lightness: 0.6039426
-  brandColors:
-    - '#FFFFFF'
-    - '#8D0F0B'
-    - '#CACACA'
-    - '#838383'
-    - '#B0B0B0'
-  rhythmicContrast: 0.1612903
-typography_spectrum: 0.7419355
-layout_spectrum: 0
-name: Dave La Cava
+title: Welcome
