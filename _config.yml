@@ -1,3 +1,19 @@
+typography_spectrum: 0.3943839
+color:
+  saturation: 0.5698925
+  brandStrength: 0.9485127
+  lightness: 0.6039426
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  rhythmicContrast: 0.1612903
+layout_spectrum: 0.4301075
+analytics:
+  google: UA-9523612-5
+name: Dave La Cava
 collections:
   - index:
       path: /
@@ -10,17 +26,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5698925
-  brandStrength: 0.9485127
-  lightness: 0.6039426
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  rhythmicContrast: 0.1612903
-typography_spectrum: 0.3943839
-layout_spectrum: 0.4301075
-name: Dave La Cava
