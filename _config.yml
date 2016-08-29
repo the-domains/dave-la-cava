@@ -1,26 +1,26 @@
+layout_spectrum: 0.1645807
+name: Dave La Cava
 collections:
   - index:
+      paginate: true
       path: /
       number: 15
-      paginate: true
       navigable: true
     permalink:
       path: '/:title/'
     feed:
-      path: /rss.xml
       format: rss
+      path: /rss.xml
       number: 10
-typography_spectrum: 0.7419355
 color:
-  saturation: 0.5698925
   brandStrength: 0.5232975
-  lightness: 0.6039426
+  saturation: 0.5698925
   brandColors:
     - '#FFFFFF'
     - '#8D0F0B'
     - '#CACACA'
     - '#838383'
     - '#B0B0B0'
+  lightness: 0.6039426
   rhythmicContrast: 0.1612903
-layout_spectrum: 0.2956989
-name: Dave La Cava
+typography_spectrum: 0.7419355
